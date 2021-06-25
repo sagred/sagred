@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sagar</h1>
-<h3 align="center">I love to build products.</h3>
+<h3 align="center">I love to build products</h3>
 
 :rocket: Check this out [sherlock.live](https://sherlock.live)
 
