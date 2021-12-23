@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sagar</h1>
 <h3 align="center">I love to build products</h3>
 
-:rocket: Check this out [sherlock.live](https://sherlock.live)
+:rocket: Check this out [app.sherlock.land](https://app.sherlock.land)
 
-:satellite: Turned my college into NFT space [sherlock.land](https://sherlock.land)
+:satellite: Turned my college into NFT space [nft.sherlock.land](https://nft.sherlock.land)
 
 :iphone: Reach me **sagred17@gmail.com**
 
