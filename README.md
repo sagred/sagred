@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sagar</h1>
 <h3 align="center">I love to build products</h3>
 
-:satellite: Turned my college into NFT space [nft.iamgroot.club](https://nft.iamgroot.club)
 
 :iphone: Reach me **sagred17@gmail.com**
 
