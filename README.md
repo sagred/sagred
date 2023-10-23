@@ -1,14 +1,8 @@
-# **🌟 Sagar Reddy 🌟**
+# **Sagar Reddy**
 
 🚀 Full Stack Developer | 🎓 Northeastern University | 🌆 Boston, MA
 
 🌐 [sag17.tech](https://sag17.tech)
-
-## **💻 Skills**
-Languages: TypeScript, JavaScript, HTML, CSS, Python, C, Java, SQL, MongoDB, PostgreSQL
-Technical: React.js, Next.js, React-Native, Node.js, Express.js, GraphQL, REST APIs, WebSockets
-Platforms: Git, AWS, GCP, Docker, Kubernetes, Linux, Vercel, Netlify, Supabase, Firebase
-Others: Ethereum, Solana, Figma, Open AI, ChatGPT, Stable Diffusion
 
 ## **🔥 Work**
 ### **IHaveSpoken.xyz** 🚀
@@ -27,7 +21,10 @@ Built a user-friendly platform for AI art creation and preservation.
 Explore it here: [art-space.club](https://art-space.club)
 
 ### **Groot Club** 🌍
-Developed a 3D application for university metaverse using NFT technology.
+Developed a 3D application for the university metaverse.
+
+![Tron DOA Hackathon Demo](https://gtrvjdtwdfnbjeytdjvv.supabase.co/storage/v1/object/public/warp/public/tron-doa-hack.gif)
+
 
 Discover it now: [iamgroot.club]
 
