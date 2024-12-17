@@ -2,7 +2,7 @@
 
 🚀 Full Stack Developer | 🎓 Northeastern University | 🌆 Boston, MA
 
-🌐 [sag17.tech](https://sag.red)
+🌐 [sag.red](https://sag.red)
 
 ## **🔥 Work**
 ### **IHaveSpoken.xyz** 🚀
