@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5757,100:4361EE&height=300&section=header&text=SAGAR%20REDDY&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=center&fontColor=fff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5757,100:4361EE&height=300&section=header&text=sagred&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=center&fontColor=fff" width="100%" />
 </div>
 
 <!-- ANIMATED TYPING SVG -->
