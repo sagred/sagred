@@ -1,56 +1,55 @@
-# **Sagar Reddy**
+<!-- HEADER SECTION -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5757,100:4361EE&height=300&section=header&text=SAGAR%20REDDY&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=center&fontColor=fff" width="100%" />
+</div>
 
-🚀 Full Stack Developer | 🎓 Northeastern University | 🌆 Boston, MA
+<!-- ANIMATED TYPING SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5757&center=true&vCenter=true&random=false&width=440&lines=Building+the+future...;One+commit+at+a+time;GitHub+Stats+Dashboard;System+Online" alt="Typing SVG" /></a>
+</p>
 
-🌐 [sag.red](https://sag.red)
+<!-- ANIMATED METRICS SECTION -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sagred/sagred/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sagred/sagred/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/sagred/sagred/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
-## **🔥 Work**
-### **IHaveSpoken.xyz** 🚀
-Voice Chat with Elon Musk, Shah Rukh Khan etc. Anytime, Anywhere. (Digital Clone Coming Soon)
+<!-- GITHUB TROPHIES -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sagred&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="GitHub Trophies" />
+</div>
 
-Experience it now: [IHaveSpoken.xyz](https://ihavespoken.xyz)
+<!-- NEON SEPARATOR -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
+</div>
 
-### **Fyli AI** 🤖
-Developed an AI application using ChatGPT for personalized chatbot experiences.
-
-Check it out: [fyli.ai](https://fyli.ai)
-
-### **Art Space** 🎨
-Built a user-friendly platform for AI art creation and preservation.
-
-Explore it here: [art-space.club](https://art-space.club)
-
-### **Groot Club** 🌍
-Developed a 3D application for the university metaverse.
-
-![Tron DOA Hackathon Demo](https://gtrvjdtwdfnbjeytdjvv.supabase.co/storage/v1/object/public/warp/public/tron-doa-hack.gif)
-
-
-Discover it now: [iamgroot.club]
-
-## **🎓 Education**
-- M.S. in Computer Software Engineering, Northeastern University, Boston, MA
-- B.E. in Computer Science and Engineering, BMS College of Engineering, Bengaluru, India
+<!-- TERMINAL WIDGET -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=300&color=06D6A0&center=true&vCenter=true&random=false&width=550&height=30&lines=.%2F+initialize_dashboard.sh;Fetching+latest+stats...;Compiling+metrics...;Rendering+visualization...;SYSTEM+ONLINE" alt="Terminal" />
+</div>
 
 
 
-## **🏆 Hackathons**
+<!-- NEON SEPARATOR -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
+</div>
 
-🏅 **ETHGlobal 2023, New York** 
-Built a ZKP protocol for obfuscating your wallet address from your spending.
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagred&custom_title=Sagar's%20Contribution%20Graph&bg_color=0D1117&color=FF5757&line=4361EE&point=FFFFFF&area=true&area_color=FF5757&hide_border=true" width="100%" />
+</div>
 
-🏆 **EasyA x Harvard Hackathon 2023** 
-Created a captivating multiplayer Generative AI Art game with cutting-edge animations.
+<!-- NEON SEPARATOR -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
+</div>
 
-🥈 **Algorand Decipher '22** 
-Developed a payment Chrome extension for Amazon with seamless transaction animations.
-
-🏅 **TRON DAO Harvard Hacker House** 
-Built a web-based metaverse tailored for universities with interactive 3D animations.
-
-🏆 **Hack Boston '22** 
-Showcased captivating UI/UX designs at the biggest hackathon held at Harvard University.
-
-Let's bring ideas to life! 🚀✨💡
-
-![Visitor Count](https://profile-counter.glitch.me/sagred/count.svg)
+<!-- FOOTER SECTION -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4361EE,100:FF5757&height=150&section=footer&animation=fadeIn" width="100%" />
+</div>
